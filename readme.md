@@ -1,4 +1,4 @@
-# 基于pytorch框架用resnet101加GPT搭建AI玩王者荣耀
+# 基于pytorch框架用resnet101加GPT搭建AI玩Timi
    本源码模型主要用了[SamLynnEvans Transformer](https://github.com/SamLynnEvans/Transformer) 的源码的解码部分。以及pytorch自带的预训练模型"resnet101-5d3b4d8f.pth"
 # 注意！！！ 
 本项目不再更新,由[用强化学习训练AI玩王者](https://github.com/FengQuanLi/WZCQ)代替。     
